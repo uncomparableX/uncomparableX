@@ -99,9 +99,9 @@ status    : building cool things
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=uncomparableX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=uncomparableX&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncomparableX&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncomparableX&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
