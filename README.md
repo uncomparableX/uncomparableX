@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Apratim%20Das&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=BTech%20'28%20|%20IIT%20Dharwad%20|%20EEE&descAlignY=60&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Apratim%20Das%20👾&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=EEE%20@%20IIT%20Dharwad%20|%20BTech%20'28&descAlignY=60&descAlign=50" />
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=yo+im+Apratim+%F0%9F%91%BE;engineering+brain+%2B+internet+brain;EEE+@+IIT+Dharwad;building+weird+cool+things;AI+%7C+software+%7C+systems;currently+on+a+side+quest...)](https://git.io/typing-svg)
 
 </div>
 
@@ -8,120 +14,124 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Apratim+Das;BTech+'28+%40+IIT+Dharwad;Electrical+%26+Electronics+Engineering;Building+Software+%2B+Engineering+Systems;AI+%7C+Problem+Solving+%7C+Innovation;Always+learning+%2C+always+building)](https://git.io/typing-svg)
+<img src="https://media.tenor.com/Ju7dF6H1w3kAAAAi/pokemon-pixel.gif" width="90">
+<img src="https://media.tenor.com/Ju7dF6H1w3kAAAAi/pokemon-pixel.gif" width="90">
+<img src="https://media.tenor.com/Ju7dF6H1w3kAAAAi/pokemon-pixel.gif" width="90">
 
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uncomparableX&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/uncomparableX?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/uncomparableX?affiliations=OWNER&style=for-the-badge&color=yellow" />
-</p>
-
----
-
-# 👨‍💻 About Me
+# 🎮 PLAYER CARD
 
 ```yaml
-Name: Apratim Das
-Education: BTech '28
-Institute: IIT Dharwad
-Branch: Electrical & Electronics Engineering (EEE)
-
-Interests:
-  - Software Engineering
-  - Artificial Intelligence
-  - Systems Building
-  - Open Source
-  - Engineering Projects
-  - Problem Solving
-
-Current Goal:
-  Building impactful technical projects while growing as an engineer.
+PLAYER: Apratim Das
+CLASS: Engineer / Builder
+LEVEL: BTech '28
+GUILD: IIT Dharwad
+BUILD: EEE + Software + AI
+STATUS: Currently Grinding ⚡
+SIDE QUEST: Building cool stuff on the internet
+ALIGNMENT: chaotic good
 ```
 
 ---
 
-# 🚀 What I Bring
+# ⚔️ CURRENT QUESTS
 
-- ⚡ Strong engineering mindset from **EEE @ IIT Dharwad**
-- 💻 Software development + technical project building
-- 🧠 Problem solving and systems thinking
-- 🤖 AI / automation exploration
-- 🔧 Builder mindset with hands-on execution
+- 🚀 shipping projects
+- 🤖 AI experiments
+- ⚡ engineering systems
+- 🧠 learning difficult things for fun
+- 🌙 coding at unreasonable hours
+- 🛠 building instead of overthinking
 
 ---
 
-# 🛠 Tech Stack
+# 🎒 INVENTORY
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,html,css,react,nodejs,nextjs,mongodb,mysql,git,github,vscode,linux,docker,tensorflow,pytorch&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,react,nodejs,nextjs,mongodb,mysql,git,github,linux,docker,tensorflow,pytorch,vscode&perline=6" />
 
 </div>
 
 ---
 
-# 📚 Engineering Domains
+# 📡 DEV STATUS
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Electrical_Engineering-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Electronics-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Software_Engineering-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI_&_ML-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open_Source-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Problem_Solving-orange?style=for-the-badge" />
-
-</p>
+```text
+██████████░░░░░░ Learning Deep Systems
+████████████░░░ Shipping Projects
+████████░░░░░░ AI Grindset
+███████████░░░ Building in Public
+█████████████░ Side Quest Energy
+```
 
 ---
 
-# 📈 GitHub Analytics
+# 🧠 ENGINEERING LORE
+
+```text
+origin story:
+an EEE kid from IIT Dharwad who accidentally started liking code too much
+
+special abilities:
+- solving weird technical problems
+- building systems
+- learning random difficult stuff
+- making ideas real
+
+weakness:
+- "just one more bug fix"
+```
+
+---
+
+# 🎯 SIDE QUESTS
+
+> aka stuff I'm building / exploring rn
+
+- 🔹 Project 1 — something cool
+- 🔹 Project 2 — something dangerous
+- 🔹 Project 3 — something useful
+- 🔹 Project 4 — something sleep-depriving
+
+---
+
+# 📈 XP TRACKER
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=uncomparableX&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=uncomparableX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncomparableX&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncomparableX&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 STREAK MODE
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=uncomparableX&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=uncomparableX&theme=tokyonight&hide_border=true&background=00000000"/>
 
 </div>
 
 ---
 
-# 🏆 Achievements
+# 🐉 BOSS FIGHTS WON
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=uncomparableX&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=uncomparableX&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
 ---
 
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=uncomparableX&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
+# 🐍 SNAKE BATTLE
 
 <div align="center">
 
@@ -131,34 +141,30 @@ Current Goal:
 
 ---
 
-# 🌟 Featured Projects
+# 🌌 CONTRIBUTION MAP
 
-> Replace with your BEST pinned repos
+<div align="center">
 
-- 🔹 Project 1 — *Short description*
-- 🔹 Project 2 — *Short description*
-- 🔹 Project 3 — *Short description*
-- 🔹 Project 4 — *Short description*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=uncomparableX&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
-# 🧠 Current Focus
+# 🎵 CURRENTLY VIBING
 
 ```text
-Building technical projects
-Learning deeply
-Engineering systems
-AI + software
-Growing as an IIT engineer
+coding playlist:
+lofi + synthwave + delusion
 ```
 
 ---
 
-# 🌐 Connect With Me
+# 🛰 CONNECT
 
-<p align="center">
+<div align="center">
 
-<a href="YOUR_LINKEDIN_URL_HERE">
+<a href="YOUR_LINKEDIN_LINK_HERE">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -166,13 +172,15 @@ Growing as an IIT engineer
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ⚡ *Engineering ideas into reality*
+### 👾 *engineering ideas into reality*
+
+<img src="https://media.tenor.com/Fdk6sM5FQ2gAAAAi/pokemon-charizard.gif" width="130">
 
 </div>
 
