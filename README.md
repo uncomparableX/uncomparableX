@@ -48,15 +48,13 @@
 
 ## <img src="https://img.icons8.com/color/28/console.png"/> whoami
 
-```bash
-apratim@iit:~$ whoami
-
-name      : Apratim Das
-branch    : Electrical & Electronics Engineering
-college   : IIT Dharwad
-year      : BTech '28
-focus     : software | systems | engineering
-status    : building cool things
+```yaml
+name: Apratim Das
+branch: EEE
+college: IIT Dharwad
+year: BTech '28
+focus: software | systems | engineering
+status: building cool things
 ```
 
 ---
@@ -97,19 +95,18 @@ status    : building cool things
 
 ## <img src="https://img.icons8.com/color/28/combo-chart.png"/> GitHub Analytics
 
+
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=uncomparableX&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=uncomparableX&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncomparableX&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncomparableX&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
-
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=uncomparableX&theme=tokyonight&hide_border=true&background=00000000"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=uncomparableX&theme=tokyonight&hide_border=true"/>
 
 </div>
 
