@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_LINK_HERE">
+<a href="https://www.linkedin.com/in/apratim-das-82a043316/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -75,19 +75,19 @@ status    : building cool things
 
 <div align="center">
 
-<a href="PROJECT_LINK_1">
+<a href="https://github.com/uncomparableX/Nasiko-AI-agent">
   <img src="https://img.shields.io/badge/Project%201-Explore-blue?style=for-the-badge"/>
 </a>
 
-<a href="PROJECT_LINK_2">
+<a href="https://github.com/uncomparableX/NeonFracture">
   <img src="https://img.shields.io/badge/Project%202-Explore-purple?style=for-the-badge"/>
 </a>
 
-<a href="PROJECT_LINK_3">
+<a href="https://github.com/uncomparableX/ATLAS-ai-coding-agent">
   <img src="https://img.shields.io/badge/Project%203-Explore-success?style=for-the-badge"/>
 </a>
 
-<a href="PROJECT_LINK_4">
+<a href="https://github.com/uncomparableX/PokePeek">
   <img src="https://img.shields.io/badge/Project%204-Explore-orange?style=for-the-badge"/>
 </a>
 
